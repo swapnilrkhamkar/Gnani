@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71481087272",
+    "firebase_url": "https://gnani-1564731656611.firebaseio.com",
+    "project_id": "gnani-1564731656611",
+    "storage_bucket": "gnani-1564731656611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71481087272:android:05ee6ec59990189f",
+        "android_client_info": {
+          "package_name": "com.assignment.gnani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71481087272-b4drsq5c1nm7sfkn35g6fhh42tr1584h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment.gnani",
+            "certificate_hash": "fd09d8aba1fa547660cd70cc345525f62c7704cb"
+          }
+        },
+        {
+          "client_id": "71481087272-rg4figju9u4vintrvabmk0kmgi8mrbs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrCDd-6P72bsQqHxz4NYKMMKcwwOy4kac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71481087272-rg4figju9u4vintrvabmk0kmgi8mrbs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
